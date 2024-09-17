@@ -1,7 +1,6 @@
-# notes
 - ! This symbol means a exclamation mark. 
 - @ This symbol means a At sign.
-- # This symbol means a number sign.
+- \#\# This symbol means a number sign.
 - $ This symbol means a dollar sign.
 - % This symbol means a precentage sign. 
 - ^ This symbol means a caret sign. 
