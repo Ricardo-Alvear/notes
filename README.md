@@ -1,3 +1,5 @@
+# Number Rule Character
+
 Symbol definitions:
 - ! This symbol means a exclamation mark.                               
 - @ This symbol means a At sign.                              
