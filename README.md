@@ -17,6 +17,8 @@ links:
 - [Healthline Pages](https://www.medicalnewstoday.com/articles/272782) 
 
 Experiments:
-:smiley:
-:stuck_out_tongue_closed_eyes:
-:relaxed:
+🥳
+😊
+😋
+💤
+🥶
